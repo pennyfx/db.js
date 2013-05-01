@@ -1,0 +1,8 @@
+{
+  "name": "db.js",
+  "description": "",
+  "version": "0.0.1",
+  "main": [
+    "src/db.js"
+  ]
+}
